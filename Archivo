@@ -1,5 +1,0 @@
-#este archivo lee el contenido de un archivo 
-archivo = (open("./archivo/asesoria.txt","a", ecoding='utf8')
-archivo.write("Programacion Avanzada")
-
-archivo.close()
